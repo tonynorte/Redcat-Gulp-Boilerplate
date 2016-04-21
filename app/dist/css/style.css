@@ -1,0 +1,10 @@
+body {
+  background: rgba(255, 0, 0, 0.63); }
+
+.wrapper {
+  margin: 150px auto;
+  max-width: 270px;
+  border: 4px solid gray;
+  padding: 1%;
+  color: gray;
+  text-align: center; }
