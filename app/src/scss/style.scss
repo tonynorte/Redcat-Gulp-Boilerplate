@@ -1,8 +1,4 @@
-@charset "UTF-8";
-
-//global elements
-@import "partials/_header.scss";
-
-
-//partials
-@import "partials/_index.scss";
+@import 'global/variables';
+@import 'global/images_path';
+@import 'partials/header';
+@import 'partials/index';

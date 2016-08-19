@@ -4,15 +4,19 @@
   "version": "1.0.0",
   "main": "maint.js",
   "devDependencies": {
-    "browser-sync": "^2.12.3",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
     "gulp-compile-handlebars": "^0.6.1",
+    "gulp-connect": "^4.1.0",
     "gulp-ember-handlebars": "^0.7.0",
     "gulp-handlebars": "^4.0.0",
+    "gulp-jshint": "^2.0.1",
     "gulp-minify": "0.0.10",
     "gulp-nunjucks-render": "^2.0.0",
+    "gulp-open": "^2.0.0",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.2.0"
+    "gulp-sass": "^2.2.0",
+    "gulp-sass-lint": "^1.2.0",
+    "jshint": "^2.9.2"
   }
 }

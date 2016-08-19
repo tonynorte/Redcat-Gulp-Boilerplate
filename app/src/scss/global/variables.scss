@@ -1,0 +1,30 @@
+// Color Palette
+$black:        #000;
+$light-blue:   #89d1f1;
+$strong-blue:  #1a708b;
+$light-blueba: #72d0ed;
+$white:        #fff;
+$whitebone:    #ecf0f1;
+$gray-medium:  #6d8088;
+$dark-gray:    #525252;
+$red:          #ff052e;
+$dark-red:     #bf001c;
+$yellow:       #fc0;
+
+//variables for mediaqueries use when applying Mobile First css approach
+// Example: @media #{$screen-xs} {}
+$screen-xs:		'(max-width: 543px)';
+$screen-sm:		'(min-width: 544px) and (max-width: 767px)';
+$screen-md:		'(min-width: 768px) and (max-width: 991px)';
+$screen-lg:		'(min-width: 992px) and (max-width: 1199px)';
+$screen-xl:		'(min-width: 1200px)';
+
+$screen-sm-up:	'(min-width: 544px)';
+$screen-md-up:	'(min-width: 768px)';
+$screen-lg-up:	'(min-width: 992px)';
+$screen-xl-up:	'(min-width: 1200px)';
+
+$screen-xs-dn:	'(max-width: 543px)';
+$screen-sm-dn:	'(max-width: 767px)';
+$screen-md-dn:	'(max-width: 991px)';
+$screen-lg-dn:	'(max-width: 1199px)';
